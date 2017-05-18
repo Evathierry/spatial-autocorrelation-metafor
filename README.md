@@ -1,1 +1,0 @@
-# spatial-autocorrelation-metafor
